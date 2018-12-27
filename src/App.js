@@ -124,8 +124,7 @@ class App extends React.Component {
         </div>
         <section className="menu" >
           <header className="header" aria-label="Application Header">
-            <p>Powered by Google Maps & Foursquare.com</p>
-            <p>Art Galleries in Germany</p>
+            <h2>Art Galleries in Germany</h2>
             <button id="toggleLocationButton" title="Toggle Location List" type='button' onClick={this.toggleLocationLiist}>
             {!this.state.locationListVisible ? 'show' : 'hide'}</button>
           </header>

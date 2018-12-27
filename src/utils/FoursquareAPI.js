@@ -1,11 +1,11 @@
 const api = "https://api.foursquare.com/v2/venues/search?ll="
 const photoapi = "https://api.foursquare.com/v2/venues/VENUE_ID/photos?"
-const clientID = 'GPUITHKHY3K10Z3LBXG4LVIFUVW4R20SVNLIU15HNQRT4FYK'
-//const clientID = 'G4UE1JIRD3TCVHEYFFG4UKAWUV2PF1XTDKOJF024CDXHBAZ2'
-const clientSecret = 'XD43WGAUSHSH1I1PNQ4H1NYF52343YPSV4XUWNJOKQMUJKNG'
-//const clientSecret = 'JEOXNYGHY33ILBHXQTPGN10PHEIEKU3BJICTEXJABV25RQSI'
+//const clientID = 'GPUITHKHY3K10Z3LBXG4LVIFUVW4R20SVNLIU15HNQRT4FYK'
+const clientID = 'G4UE1JIRD3TCVHEYFFG4UKAWUV2PF1XTDKOJF024CDXHBAZ2'
+//const clientSecret = 'XD43WGAUSHSH1I1PNQ4H1NYF52343YPSV4XUWNJOKQMUJKNG'
+const clientSecret = 'JEOXNYGHY33ILBHXQTPGN10PHEIEKU3BJICTEXJABV25RQSI'
 const searchResut = 1
-const photoResolution = "200x200"
+const photoResolution = "150x150"
 const headers = {
   'Accept': 'application/json'
 }

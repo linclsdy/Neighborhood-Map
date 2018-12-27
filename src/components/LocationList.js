@@ -24,7 +24,7 @@ class LocationList extends React.Component {
                     <li 
                     key={location.name}
                     //tabIndex={ !this.state.searchHidden ? '0' : '-1' }
-                    
+                    aria-label = {location.name}
                     onClick = {(e) => onLocationClicked(location)}
                     tabIndex = {0}
                     > 

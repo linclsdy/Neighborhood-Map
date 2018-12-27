@@ -57,9 +57,9 @@ class MapContainer extends Component {
           visible = {visible}
         >
         <div>
-          {name}
+          <h2>{name}</h2>
           <img src={photoURL || "Sorry No Image"} alt="location"/>
-          {address[0]}{address[1]}{address[2]}
+          <h3>{address[0]}</h3> <h4>{address[1]}</h4> <h4>{address[2]}</h4>
         </div>
         </InfoWindow>
       </Map>
