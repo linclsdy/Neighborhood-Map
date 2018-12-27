@@ -13,6 +13,5 @@ This is a neighborhood map project and it aims to build a single page map applic
 
 ## Resources
 
-* Google Maps Platform Documentation (https://developers.google.com/maps/documentation/)
-* Foursquare API (https://developer.foursquare.com/)
-
+* [Google Maps Platform Documentation](https://developers.google.com/maps/documentation/)
+* [Foursquare API](https://developer.foursquare.com/)
