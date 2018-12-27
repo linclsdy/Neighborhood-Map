@@ -1,0 +1,12 @@
+[
+  { "name": "Caricatura",                           "position": { "lat": 51.31839, "lng": 9.49048 }},
+  { "name": "Bucerius Kunst Forum",                 "position": { "lat": 53.55115, "lng": 9.99187 }},
+  { "name": "Neues Museum",                         "position": { "lat": 49.44783, "lng": 11.08004 }},
+  { "name": "Old Masters Picture Gallery",          "position": { "lat": 51.05338, "lng": 13.7347}},
+  { "name": "Wallraf-Richartz Museum",              "position": { "lat": 50.9374,  "lng": 6.95853 }},
+  { "name": "Museum of Urban and Contemporary Art", "position": { "lat": 48.1366,  "lng": 11.57 }},
+  { "name": "Alte Pinakothek",                      "position": { "lat": 48.14829, "lng": 11.56998 }},
+  { "name": "Camera Wwork Photogallery",            "position": { "lat": 52.50528, "lng": 13.3246 }},
+  { "name": "Max Ernst Museum",                     "position": { "lat": 50.83018, "lng": 6.90985 }},
+  { "name": "Berlinische Galerie",                  "position": { "lat": 52.50395, "lng": 13.39815 }}
+]
